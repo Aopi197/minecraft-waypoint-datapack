@@ -1,0 +1,1 @@
+execute as @e[type=bat,tag=waypoint] at @s run summon block_display ~ ~1 ~ {transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],scale:[1f,1f,1f],translation:[-0.5f,-1f,-0.5f]},block_state:{Name:white_stained_glass}}

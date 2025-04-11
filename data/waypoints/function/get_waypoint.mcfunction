@@ -1,0 +1,1 @@
+give @p ghast_spawn_egg[custom_name=[{"text":"Waypoint Spawner","italic":false}],lore=[[{text:"Right Click On The Ground To Use!",italic:false}],[{text:"Attack It To Remove!",italic:false}]],entity_data={id:bat,CustomName:[{text:Waypoint}],Tags:[waypoint]}] 1
